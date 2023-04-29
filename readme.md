@@ -1,1 +1,1 @@
-#This is repository for basics bash scripting.
+#This is repository for basics of  bash scripting.

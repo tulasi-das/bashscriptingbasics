@@ -1,0 +1,10 @@
+Like python you cannot simply do 50 + 50 to add two numbers, in bash you have to use
+commad expr(which represents expresssion, thae means it is going to evaluate the 
+expressions)
+
+We should use : expr "the expression comes here"
+
+You cannot use * in bash for multiplicaion, because it is a wild card in bash. So you can
+use escape /* for multiplicaion.
+
+Refee the exaple for more understading
