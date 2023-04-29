@@ -1,0 +1,18 @@
+The bash script starts with shebang i,e in the first line of script we have to define
+the interpret type to interprete the script
+
+if we are scripting in bash we should use : #!/bin/bash
+
+
+
+
+Variables are used to store infromation. These variables can of type Integer, string etc
+
+To access the variables in bash(the contents of variables) we have to use the symbol $
+
+To execute a file we can use : ./filename
+
+Before executing the file, we should have executable permisison for the file.
+This permission can be obtained by executing the command: sudo chmod+x filename
+
+You can see the permissions of all the files and direcrtories using the command: ls -la
