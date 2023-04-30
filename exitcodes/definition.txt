@@ -1,0 +1,5 @@
+if the command executes successfully then the value of the variable ? would be 0
+You can find the value of variable by $?
+when you give exit the script will end there and will not continue further
+
+we can manipulate the value of exit that is by doing the following: exit 5
