@@ -9,6 +9,3 @@ do
   myvar=$(( $myvar + 1 ))
 done
 
-#we need to store the value of output somewhere in the memory, so thats why
-#double paranthesis, first it will store the ouput, then we are going to
-#access the value
